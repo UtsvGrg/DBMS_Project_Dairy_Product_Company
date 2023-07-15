@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 static/* linguist-vendored
+*.sql linguist-language=MySQL
 * text=auto
